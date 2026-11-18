@@ -1,0 +1,20 @@
+File: outputs/x3_v0.6_prospective_pairs.json
+Total pairs: 17973
+
+Axis A (evidence completeness):
+  Partially Assessable: 16436 (91.4483%)
+  Insufficient Evidence: 1537 (8.5517%)
+
+Axis B (protocol relationship):
+  Same: 5126 (28.5206%)
+  Mixed: 9469 (52.6846%)
+  Undetermined: 1537 (8.5517%)
+  Different: 1841 (10.2431%)
+
+Strict-field flags (F04/F16):
+  incompatible (>=1 DIFFERENT): 2629 (14.6275%)
+  both incompatible: 33 (0.1836%)
+  unresolved (>=1 UNASSESSABLE): 17899 (99.5883%)
+  unresolved (both): 13603 (75.6858%)
+
+(Recomputed axis_a/axis_b match the file's own stored values exactly, where present.)

@@ -1,0 +1,105 @@
+{
+  "eligible_units": 271,
+  "total_pairs": 17973,
+  "pair_class_counts": {
+    "Cannot Be Assessed": 9286,
+    "Partially Comparable": 8687
+  },
+  "by_dataset": {
+    "SumMe": {
+      "total": 8786,
+      "directly_comparable": 0
+    },
+    "TVSum": {
+      "total": 9187,
+      "directly_comparable": 0
+    }
+  },
+  "field_verdict_counts": {
+    "F01": {
+      "WORDING-ONLY": 7062,
+      "AMBIGUOUS": 10122,
+      "MISSING-BY-CONSTRUCTION": 789
+    },
+    "F02": {
+      "AMBIGUOUS": 11100,
+      "GENUINE": 4809,
+      "WORDING-ONLY": 1699,
+      "MISSING-BY-CONSTRUCTION": 267,
+      "NR-GENUINE": 88,
+      "NA-GENUINE": 10
+    },
+    "F03": {
+      "AMBIGUOUS": 14009,
+      "GENUINE": 2474,
+      "MISSING-BY-CONSTRUCTION": 789,
+      "NA-GENUINE": 163,
+      "WORDING-ONLY": 538
+    },
+    "F04": {
+      "AMBIGUOUS": 11316,
+      "MISSING-BY-CONSTRUCTION": 1263,
+      "INHERITANCE-BLOCKED": 1044,
+      "WORDING-ONLY": 1757,
+      "GENUINE": 2593
+    },
+    "F06": {
+      "AMBIGUOUS": 9780,
+      "NA-GENUINE": 179,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "WORDING-ONLY": 4718,
+      "GENUINE": 1688,
+      "NR-GENUINE": 564
+    },
+    "F07": {
+      "AMBIGUOUS": 6035,
+      "GENUINE": 3595,
+      "WORDING-ONLY": 6929,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "NR-GENUINE": 370
+    },
+    "F08": {
+      "AMBIGUOUS": 8197,
+      "WORDING-ONLY": 7478,
+      "GENUINE": 166,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "NR-GENUINE": 1088
+    },
+    "F09": {
+      "AMBIGUOUS": 14509,
+      "NR-GENUINE": 497,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "GENUINE": 1199,
+      "WORDING-ONLY": 724
+    },
+    "F11": {
+      "AMBIGUOUS": 11889,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "WORDING-ONLY": 2458,
+      "GENUINE": 2516,
+      "NR-GENUINE": 66
+    },
+    "F12": {
+      "AMBIGUOUS": 16085,
+      "WORDING-ONLY": 162,
+      "MISSING-BY-CONSTRUCTION": 1044,
+      "NR-GENUINE": 637,
+      "GENUINE": 45
+    },
+    "F13": {
+      "NR-GENUINE": 1770,
+      "AMBIGUOUS": 14152,
+      "MISSING-BY-CONSTRUCTION": 1175,
+      "NA-GENUINE": 15,
+      "GENUINE": 545,
+      "WORDING-ONLY": 316
+    },
+    "F16": {
+      "NR-GENUINE": 12450,
+      "AMBIGUOUS": 4126,
+      "MISSING-BY-CONSTRUCTION": 1303,
+      "WORDING-ONLY": 25,
+      "GENUINE": 69
+    }
+  }
+}

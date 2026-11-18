@@ -1,0 +1,33 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Applies to: all original research documentation, codebooks, extraction
+metadata, and derived audit materials in this repository, specifically
+everything under `codebook/`, the `V0.6_*.md` and `V0.6_AXIS_STATS_RAW.txt`
+narrative/audit documents, `V0.6_CHANGE_REGISTER.csv`, `SHA256_MANIFEST.csv`,
+`run/UVS_Core_v1.0_Extraction.csv`, `run/UVS_X3_Protocol_Setting_Mapping_v0.2.csv`,
+and `outputs/x3_v0.6_prospective_pairs.json` / `outputs/x3_v0.6_prospective_summary.json`.
+
+This material is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license
+permits.
+
+See the "Third-party material" section of README.md: this license covers
+only this project's own original documentation, codebooks, and extraction
+metadata. It does NOT cover, and is not intended to relicense, any
+third-party papers, datasets, or copyrighted content referenced or
+summarized therein.
